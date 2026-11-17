@@ -1,42 +1,77 @@
 # Hi, I'm Bashitha Athukorala 👋
 
-🎓 BSc (Hons) Information Technology undergraduate specialising in Data Science at SLIIT.
+🎓 BSc (Hons) Information Technology undergraduate specialising in **Data Science at SLIIT**.
 
-💻 Interested in Software Engineering, Data Science, Machine Learning and Data Analytics.
+💻 Interested in **Software Engineering, Data Science, Machine Learning and Data Analytics**.
 
-## Technical Skills
+🚀 Passionate about building practical software solutions, analysing data and applying machine learning to real-world problems.
+
+## 🛠️ Technical Skills
 
 - **Programming:** Python, JavaScript, Java, SQL
-- **Backend:** Node.js, Express.js, REST APIs
+- **Backend Development:** Node.js, Express.js, REST APIs
 - **Frontend & Mobile:** React, React Native
-- **Databases:** MongoDB, MySQL, SQL Server
-- **Data Science:** Pandas, Scikit-learn, Machine Learning, Exploratory Data Analysis
-- **Tools:** Git, GitHub, Power BI
+- **Databases:** MongoDB, MySQL, Microsoft SQL Server
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, EDA, Feature Engineering, Classification Models
+- **Data Analytics & BI:** ETL, Data Warehousing, Data Marts, Power BI
+- **Tools:** Git, GitHub, Jupyter Notebook, SQL Server Management Studio (SSMS)
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Smart Hardware Inventory Management System — Group Project
+### 1. Smart Hardware Inventory Management System
+**University Group Project | Software Development**
 
 **My Role:** Supplier Management Module Developer
 
-Developed the Supplier Management module as part of a six-member university software development project.
+- Developed supplier management functionality using Node.js, Express.js and MongoDB.
+- Implemented REST API operations for managing supplier information.
+- Worked with supplier records, data storage and retrieval.
+- Collaborated with a six-member development team.
 
-**Technologies:** Node.js, Express.js, MongoDB, React Native
+**Technologies:** Node.js, Express.js, MongoDB, REST APIs, React Native
 
-**My Contributions:**
-- Developed supplier management functionality.
-- Implemented REST API operations for supplier records.
-- Worked with supplier data storage and retrieval.
-- Contributed to the integration of supplier management into the mobile application.
+🔗 [View My Supplier Management Module](https://github.com/Athukorala2004/hardware-inventory-supplier-management)
 
-[View Group Project](https://github.com/Dulashee/hardware_management_MobileAPP)
+### 2. Telecom Customer Churn Prediction
+**University Group Project | Machine Learning**
 
-### E-Commerce EDA and Feature Engineering
+**My Contributions:** Data Preprocessing, EDA, Feature Engineering, Random Forest Evaluation and Model Comparison
 
-Performed data cleaning, exploratory data analysis, outlier handling and feature engineering on an e-commerce dataset.
+- Performed data preprocessing and exploratory data analysis on telecom customer data.
+- Conducted feature engineering to prepare data for machine learning.
+- Evaluated the Random Forest classification model.
+- Collaborated with teammates to compare four classification models and support final model selection.
 
-[View Project](https://github.com/Athukorala2004/ecommerce-eda-feature-engineering)
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-## Currently Seeking
+🔗 [View Machine Learning Project](https://github.com/Athukorala2004/telco-customer-churn-prediction)
 
-IT internship opportunities where I can apply my technical skills, contribute to real-world projects and develop my professional experience.
+### 3. Olist E-Commerce Data Warehousing & Business Intelligence
+**University Group Project | Data Engineering & Business Intelligence**
+
+**My Contributions:** ETL Development, Data Mart Development and Power BI Collaboration
+
+- Developed SQL-based ETL processes for cleaning, transforming and loading e-commerce data.
+- Created analytical data marts to support sales reporting.
+- Collaborated with teammates on Power BI dashboard development.
+
+**Technologies:** SQL Server, SSMS, SQL, ETL, Data Warehousing, Power BI
+
+🔗 [View Data Warehousing & BI Project](https://github.com/Athukorala2004/olist-data-warehouse-powerbi)
+
+### 4. E-Commerce Exploratory Data Analysis & Feature Engineering
+**Data Science Project**
+
+- Performed data cleaning and exploratory data analysis on an e-commerce dataset.
+- Applied outlier handling and feature transformation techniques.
+- Conducted feature engineering to prepare data for further analysis and modelling.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+🔗 [View EDA & Feature Engineering Project](https://github.com/Athukorala2004/ecommerce-eda-feature-engineering)
+
+## 🎯 Currently Seeking
+
+I am actively seeking **IT internship opportunities** in Software Engineering, Data Science, Machine Learning and Data Analytics.
+
+I am eager to apply my technical knowledge, contribute to real-world projects, collaborate with development teams and continue improving my problem-solving skills.
